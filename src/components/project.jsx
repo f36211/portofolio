@@ -16,9 +16,9 @@ const project = [
     url: "https://rentalmobilbogorr.vercel.app/",
   },
   {
-    name: "Sekolah Website",
+    name: "Perpustakaan Website",
     img: "sekolah.png",
-    url: "https://uqbravo.xyz/",
+    url: "https://ebookperpus.vercel.app/",
   },
 ];
 
