@@ -12,12 +12,12 @@ const project = [
   },
   {
     name: "Sewa Mobil Bogor",
-    img: "image.png",
+    img: "rental.png",
     url: "https://rentalmobilbogorr.vercel.app/",
   },
   {
     name: "Perpustakaan Website",
-    img: "sekolah.png",
+    img: "perpus.png",
     url: "https://ebookperpus.vercel.app/",
   },
 ];
