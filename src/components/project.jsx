@@ -11,9 +11,9 @@ const project = [
     url: "https://uqbravo.xyz/",
   },
   {
-    name: "Proyek Konstruksi Website",
+    name: "Sewa Mobil Bogor",
     img: "image.png",
-    url: "https://uqbravo.xyz/",
+    url: "https://rentalmobilbogorr.vercel.app/",
   },
   {
     name: "Sekolah Website",
